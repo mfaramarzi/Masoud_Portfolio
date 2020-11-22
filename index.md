@@ -8,23 +8,24 @@ My name is Masoud. I am a PhD student in Civil Engineering and interested in app
 ---
 ### Education
 
-[Road Damage Detection and Classification Using Deep NeuralNetworks with Smartphone Images](https://www.researchgate.net/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images)
-<img src="images/RDD.png"/>
-
----
-### Work Experience
-
+- PhD- Engineering
+- MS- Computer Science
+- MS- Civil and Environmental Engineering
 
 ---
 ### Recent Projects
 
+- [Road Damage Detection and Classification Using Deep NeuralNetworks with Smartphone Images](https://www.researchgate.net/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images)
+<img src="images/RDD.png"/>
 
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [Evaluation of Cold Recycled Asphalt Mixture Treated with Portland Cement as Base-Layer Materials ](https://ascelibrary.org/doi/abs/10.1061/(ASCE)MT.1943-5533.0003073)
+<img src="images/SEM.png"/>
 
 ---
-
-
-
+### Work Experience
+- Instructor and Research Assistant- University of Rhode Island
+- Intern- U.S. Department of Transportation- Planning Division
+- Intern- U.S. Department of Transportation- Materials Division
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
