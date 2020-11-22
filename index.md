@@ -1,5 +1,5 @@
 ## Bio
-My name is Masoud. I am a PhD student in Civil Engineering and interested in application of AI in Civil and Transportation Engineering. More specifically now I am involved with a project about using deep learning methods for road damage detection and segmentation. Main deep learning algorithms I am using in my reseach are YOLO (for objet detection) and UNET (for objectsegmentation). I like to learn data science because:
+My name is Masoud. I am a PhD student and interested in application of AI in Civil and Transportation Engineering. More specifically now I am involved with a project about using deep learning methods for road damage detection and segmentation. Main deep learning algorithms I am using in my reseach are YOLO (for objet detection) and UNET (for objectsegmentation). I like to learn data science because:
 
 1. I am very inrterested in extracting intuition out of raw data.
 2. I love to do research on intelligence from an engineering prospective. I found deep learning as the most promising method to follow this goal in my life. Not only as an important skill for my future profession, but also as my hobby.
@@ -30,3 +30,4 @@ My name is Masoud. I am a PhD student in Civil Engineering and interested in app
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
