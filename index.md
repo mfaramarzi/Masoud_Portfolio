@@ -8,7 +8,7 @@ My name is Masoud. I am a PhD student in Civil Engineering and interested in app
 ---
 ### Education
 
-[oad Damage Detection and Classification Using Deep NeuralNetworks with Smartphone Images](/https://www.researchgate.net/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images)
+[Road Damage Detection and Classification Using Deep NeuralNetworks with Smartphone Images](https://www.researchgate.net/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images)
 <img src="images/RDD.png"/>
 
 ---
